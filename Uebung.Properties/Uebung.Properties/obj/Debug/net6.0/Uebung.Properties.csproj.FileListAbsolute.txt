@@ -1,0 +1,15 @@
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\bin\Debug\net6.0\Uebung.Properties.exe
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\bin\Debug\net6.0\Uebung.Properties.deps.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\bin\Debug\net6.0\Uebung.Properties.runtimeconfig.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\bin\Debug\net6.0\Uebung.Properties.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\bin\Debug\net6.0\Uebung.Properties.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.csproj.AssemblyReference.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.AssemblyInfoInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.AssemblyInfo.cs
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.csproj.CoreCompileInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\refint\Uebung.Properties.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\Uebung.Properties.genruntimeconfig.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\Uebung.Properties\Uebung.Properties\obj\Debug\net6.0\ref\Uebung.Properties.dll
