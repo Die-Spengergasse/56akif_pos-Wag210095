@@ -1,0 +1,17 @@
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\bin\Debug\net6.0\ExCollection.App.exe
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\bin\Debug\net6.0\ExCollection.App.deps.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\bin\Debug\net6.0\ExCollection.App.runtimeconfig.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\bin\Debug\net6.0\ExCollection.App.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\bin\Debug\net6.0\ExCollection.App.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.csproj.AssemblyReference.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.AssemblyInfoInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.AssemblyInfo.cs
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.csproj.CoreCompileInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.csproj.CopyComplete
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\refint\ExCollection.App.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ExCollection.App.genruntimeconfig.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\ExCollection.App\ExCollection.App\obj\Debug\net6.0\ref\ExCollection.App.dll
