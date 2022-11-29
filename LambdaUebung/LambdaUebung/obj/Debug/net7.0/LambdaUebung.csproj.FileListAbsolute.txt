@@ -1,0 +1,15 @@
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\bin\Debug\net7.0\LambdaUebung.exe
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\bin\Debug\net7.0\LambdaUebung.deps.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\bin\Debug\net7.0\LambdaUebung.runtimeconfig.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\bin\Debug\net7.0\LambdaUebung.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\bin\Debug\net7.0\LambdaUebung.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.csproj.AssemblyReference.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.GeneratedMSBuildEditorConfig.editorconfig
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.AssemblyInfoInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.AssemblyInfo.cs
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.csproj.CoreCompileInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\refint\LambdaUebung.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\LambdaUebung.genruntimeconfig.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\LambdaUebung\LambdaUebung\obj\Debug\net7.0\ref\LambdaUebung.dll
