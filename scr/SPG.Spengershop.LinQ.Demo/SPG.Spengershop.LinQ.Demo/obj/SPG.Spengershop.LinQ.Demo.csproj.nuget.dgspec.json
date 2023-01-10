@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\scr\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo.csproj": {}
+  },
+  "projects": {
+    "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\scr\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\scr\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo.csproj",
+        "projectName": "SPG.Spengershop.LinQ.Demo",
+        "projectPath": "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\scr\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo.csproj",
+        "packagesPath": "C:\\Users\\Vicky\\.nuget\\packages\\",
+        "outputPath": "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\scr\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

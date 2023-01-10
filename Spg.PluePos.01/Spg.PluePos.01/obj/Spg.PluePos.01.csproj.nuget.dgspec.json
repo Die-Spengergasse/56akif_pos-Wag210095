@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vicky\\Downloads\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {}
+    "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vicky\\Downloads\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {
+    "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vicky\\Downloads\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
+        "projectUniqueName": "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
         "projectName": "Spg.PluePos.01",
-        "projectPath": "C:\\Users\\Vicky\\Downloads\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
+        "projectPath": "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01.csproj",
         "packagesPath": "C:\\Users\\Vicky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vicky\\Downloads\\Spg.PluePos.01\\Spg.PluePos.01\\Spg.PluePos.01\\obj\\",
+        "outputPath": "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\Spg.PluePos.01\\Spg.PluePos.01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vicky\\AppData\\Roaming\\NuGet\\NuGet.Config",

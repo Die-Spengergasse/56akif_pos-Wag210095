@@ -40,15 +40,17 @@ namespace Spg.PluePos._01.Model
         public abstract string Html { get; }
         //o SmartPhoneApp SmartPhone (Default Property, Es soll eine Referenz auf die Liste
         //beinhalten) Achtung! Nullable - Feature: Wähle die richtige initialisierung.
-        public List<SmartPhoneApp> Smartphone { get; set; } = new();
-        public SmartPhoneApp PostNavigation { get; internal set; }
+        public SmartPhoneApp Smartphone { get; set; } = new("braucht Parameter");
+        public SmartPhoneApp SmartPhone { get; set; } 
+
+        // public SmartPhoneApp _smartPhone { get; set; } = new();
 
         //• Erstelle einen Konstruktor der die Parameter „title“ und „created“ entgegennimmt und damit 
         //die Properties befüllt. Titel darf nicht NULL sein. Ist das der Fall soll eine 
         //ArgumentNullException mit der Meldung „Titel war NULL!" geworfen werden.        
         public Post(string _title, DateTime _created)
         {
-            if (_title == null)
+            if (_title is null)
                 throw new ArgumentNullException("Titel war NULL");
             Title = _title;
             Created = _created;
@@ -56,9 +58,10 @@ namespace Spg.PluePos._01.Model
         //• Erstelle einen Konstruktor der den Parameter „title“ entgegennimmt und den vorherigen 
         //Konstruktor aufruft, um die Werte zu setzen. Für den Parameter „created“, verwende 
         //DateTime.Now.
-        public Post(string _title) : this(_title, DateTime.Now)
+        public Post(string _title)
+            : this(_title, DateTime./*Utc*/Now)
         {
-            Title = _title;
+          //kann leer bleiben
 
         }
         //• Überschreibe die ToString-Methode sodass der Inhalt des Properties HTML ausgegeben wird.

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ieANxT1LvkfogWbtExkpCXgmJYbZmSMgf7vO9+UegyUr9WohQm9YpcETLWPhGnB9Sw8GK7i3wNFGE/bTgLmWrg==",
+  "success": true,
+  "projectFilePath": "C:\\56AKIF\\SPG_POS\\56akif_pos-Wag210095\\scr\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo\\SPG.Spengershop.LinQ.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vicky\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.csproj.AssemblyReference.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.AssemblyInfoInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.AssemblyInfo.cs
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.csproj.CoreCompileInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\bin\Debug\net7.0\UebungCSharp.exe
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\bin\Debug\net7.0\UebungCSharp.deps.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\bin\Debug\net7.0\UebungCSharp.runtimeconfig.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\bin\Debug\net7.0\UebungCSharp.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\bin\Debug\net7.0\UebungCSharp.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\refint\UebungCSharp.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\UebungCSharp.genruntimeconfig.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\UebungCSharp\UebungCSharp\obj\Debug\net7.0\ref\UebungCSharp.dll

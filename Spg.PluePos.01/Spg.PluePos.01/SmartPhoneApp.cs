@@ -22,16 +22,25 @@ namespace Spg.PluePos._01
         //„new“ (public void new Add(…)). Sie soll nur Post in die Liste aufnehmen können, wenn der
         //Post nicht NULL ist.Es soll auch eine Referenz von SmartPhoneApp auf die Klasse Post gesetzt
         //werden.
-        public new void Add(Post p)
+        public new void Add(Post p) 
         {
             
-            if (p != null)
+            if (p != null)// is not null
             {
                 posts.Add(p);
-                p.PostNavigation = this;
+                p.Smartphone = this;
             }
            
             
+        }
+        public string ProcessPosts()
+        {
+            string finalHTML = string.Empty;
+            foreach(Post item in this)
+            {
+                finalHTML += item.Html;
+            }
+            return finalHTML;
         }
 
         
@@ -40,12 +49,12 @@ namespace Spg.PluePos._01
         public int CalcRating()
         {
             int rating = 0;
-            foreach(Post p in this)
+            foreach(Post item in this)
             {
-                if(p != null)
+                if(item != null)
                 {
-                    rating = p.Rating;
-                        ;
+                    rating += item.Rating;
+                        
                 }
             }
             return rating;
@@ -54,9 +63,22 @@ namespace Spg.PluePos._01
         //• Erstelle eine Methode CalcRating.Sie durchläuft alle Posts in der Liste und summiert alle
         //Ratings der einzelnen Posts auf. Das Ergebnis soll anschließend zurückgegeben werden.
 
-        //• Erstelle einen Iterator, der anhand des Title einen Post zurückliefern kann. Der Aufruf würde
+        //• Erstelle einen Indexer, der anhand des Title einen Post zurückliefern kann. Der Aufruf würde
         //folgendermaßen aussehen: “posts["TextPost 6"]?.Html“. Kann der Post nicht in der
         //Liste gefunden werden, soll null zurückgegeben werden.
-
+        public Post? this[string title]
+        {
+            get
+            {
+                foreach(Post item in this)
+                {
+                    if(item.Title == title)
+                    {
+                        return item;    
+                    }
+                }
+                return null;
+            }
+        }
     }
 }

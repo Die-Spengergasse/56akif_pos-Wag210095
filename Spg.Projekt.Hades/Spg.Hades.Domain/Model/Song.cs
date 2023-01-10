@@ -10,8 +10,9 @@ namespace Spg.Hades.Domain.Model
     {
         public int Id { get; set; }
         public string SongName { get; set; } = string.Empty;
-        public float SongLenght { get; set; }
+        public TimeSpan SongLenght { get; set; }
 
         public List<Artist> Artists = new List<Artist>();
+        public Playlist PlaylistNavigation { get; set; } = default!;
     }
 }

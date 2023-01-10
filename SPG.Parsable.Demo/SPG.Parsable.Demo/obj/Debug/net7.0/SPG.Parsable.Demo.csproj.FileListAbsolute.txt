@@ -1,0 +1,15 @@
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\bin\Debug\net7.0\SPG.Parsable.Demo.exe
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\bin\Debug\net7.0\SPG.Parsable.Demo.deps.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\bin\Debug\net7.0\SPG.Parsable.Demo.runtimeconfig.json
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\bin\Debug\net7.0\SPG.Parsable.Demo.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\bin\Debug\net7.0\SPG.Parsable.Demo.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.csproj.AssemblyReference.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.AssemblyInfoInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.AssemblyInfo.cs
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.csproj.CoreCompileInputs.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\refint\SPG.Parsable.Demo.dll
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.pdb
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\SPG.Parsable.Demo.genruntimeconfig.cache
+C:\56AKIF\SPG_POS\56akif_pos-Wag210095\SPG.Parsable.Demo\SPG.Parsable.Demo\obj\Debug\net7.0\ref\SPG.Parsable.Demo.dll

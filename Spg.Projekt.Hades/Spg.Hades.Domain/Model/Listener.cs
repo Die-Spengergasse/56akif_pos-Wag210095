@@ -9,7 +9,7 @@ namespace Spg.Hades.Domain.Model
      public enum Genders { Male, Female, Others};
     public class Listener
     {
-        public string Listenernumber { get; set; } = string.Empty; //(warum empty wenn pk?)
+        public string Listenernumber { get; set; } = string.Empty; 
         public Genders Gender { get; set; }
         public string Firstname { get; set; } = string.Empty;
         public string Lastname { get; set; } = string.Empty;
